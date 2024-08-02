@@ -1,0 +1,11 @@
+langchain~=0.1.10
+python-dotenv~=1.0.1
+streamlit~=1.31.1
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic-bin
+OpenAI
+langchain-community
+PyPDF2~=3.0.1
