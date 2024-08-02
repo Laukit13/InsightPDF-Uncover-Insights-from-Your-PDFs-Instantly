@@ -3,8 +3,9 @@
 IntelliPDF is a powerful tool designed to streamline the process of brainstorming and extracting information from research papers. By allowing users to upload multiple PDFs, it enables efficient querying and provides instant answers from the content of the documents. This makes research work significantly easier and more productive.
 
 ## Demo 
+
 <div align="center">
-  <img height="200" width="80%" src="https://github.com/Laukit13/InsightPDF-Uncover-Insights-from-Your-PDFs-Instantly/tree/main/Img"  />
+  <img height="200" width="80%" src="https://github.com/Laukit13/InsightPDF-Uncover-Insights-from-Your-PDFs-Instantly/blob/main/Img/photo_6154491318747905981_y.jpg"  />
 </div>
 
 ## Features
