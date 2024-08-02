@@ -2,6 +2,11 @@
 
 IntelliPDF is a powerful tool designed to streamline the process of brainstorming and extracting information from research papers. By allowing users to upload multiple PDFs, it enables efficient querying and provides instant answers from the content of the documents. This makes research work significantly easier and more productive.
 
+## Demo 
+<div align="center">
+  <img height="400" width="90%" src="https://github.com/Laukit13/InsightPDF-Uncover-Insights-from-Your-PDFs-Instantly/tree/main/Img"  />
+</div>
+
 ## Features
 
 - **Multiple PDF Upload:** Upload multiple research papers and manage them effortlessly.
@@ -18,8 +23,6 @@ IntelliPDF is a powerful tool designed to streamline the process of brainstormin
 - **Python:** Core programming language for application logic.
 - **FAISS:** Enables efficient similarity search and clustering of dense vectors for document retrieval.
 - **PyPDF2:** Used for PDF manipulation and extraction, enabling efficient processing of the uploaded documents.
-
-## Demo 
 
 ## Installation
 
