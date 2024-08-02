@@ -5,7 +5,7 @@ IntelliPDF is a powerful tool designed to streamline the process of brainstormin
 ## Demo 
 
 <div align="center">
-  <img height="400" width="80%" src="https://github.com/Laukit13/InsightPDF-Uncover-Insights-from-Your-PDFs-Instantly/blob/main/Img/photo_6154491318747905981_y.jpg"  />
+  <img height="500" width="80%" src="https://github.com/Laukit13/InsightPDF-Uncover-Insights-from-Your-PDFs-Instantly/blob/main/Img/photo_6154491318747905981_y.jpg"  />
 </div>
 
 ## Features
